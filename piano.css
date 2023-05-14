@@ -1,0 +1,25 @@
+.header
+{
+font-size: 30px;
+width: 100%;
+margin: 0px;
+line-height:2;
+}
+body {
+    background-size:cover;
+    background-position: center;
+}
+
+.Atags {
+    font-size:25px;
+}
+
+.back {
+    width:100%;
+    margin-top:890px
+}
+
+canvas {
+    border-style: dotted;
+    border-radius:50px;
+}
